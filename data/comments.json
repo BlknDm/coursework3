@@ -32,7 +32,7 @@
   {
     "post_id": 2,
     "commenter_name": "hank",
-    "comment": "Хе хе !",
+    "comment": "Хе хе!",
     "pk": 6
   },
   {
@@ -44,19 +44,19 @@
   {
     "post_id": 2,
     "commenter_name": "leo",
-    "comment": "Часть вижу такие фото у друзей! Это новый тренд?",
+    "comment": "Часто вижу такие фото у друзей! Это новый тренд?",
     "pk": 8
   },
   {
     "post_id": 3,
     "commenter_name": "johnny",
-    "comment": "Выглядит неплохо )",
+    "comment": "Выглядит неплохо)",
     "pk": 9
   },
   {
     "post_id": 3,
     "commenter_name": "hank",
-    "comment": "Каждый раз захожу в ленту и от тебя что то классное!",
+    "comment": "Каждый раз захожу в ленту и от тебя что-то классное!",
     "pk": 10
   },
   {
@@ -74,13 +74,13 @@
   {
     "post_id": 4,
     "commenter_name": "johnny",
-    "comment": "Ухты!",
+    "comment": "Ух-ты!",
     "pk": 13
   },
   {
     "post_id": 4,
     "commenter_name": "hank",
-    "comment": "Норм )",
+    "comment": "Норм)",
     "pk": 14
   },
   {
@@ -92,7 +92,7 @@
   {
     "post_id": 4,
     "commenter_name": "leo",
-    "comment": "Интерсно...",
+    "comment": "Интересно...",
     "pk": 16
   },
   {
@@ -116,7 +116,7 @@
   {
     "post_id": 7,
     "commenter_name": "hanna",
-    "comment": "Очень необычная фоторафия! Где это?",
+    "comment": "Очень необычная фотография! Где это?",
     "pk": 20
   }
 ]
